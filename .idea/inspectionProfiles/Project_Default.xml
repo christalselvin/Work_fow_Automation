@@ -1,0 +1,73 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="typing_extensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.create_app" />
+          <option value="services.create_app" />
+          <option value="main.authenticated_users" />
+          <option value="main.get_windows_credentials" />
+          <option value="main.execute_powershell_command" />
+          <option value="templates.app" />
+          <option value="models.windows.execute_powershell_command" />
+          <option value="models.windows.get_windows_credentials" />
+          <option value="main.parse_service_info" />
+          <option value="_int_.Getdatabase" />
+          <option value="_int_.Get" />
+          <option value="ux.Service" />
+          <option value="__int__.flask_restful" />
+          <option value="flask.wrappers.Request.get" />
+          <option value="__int__.generate" />
+          <option value="typing.TextIO.sleep" />
+          <option value="demo.FormApi" />
+          <option value="__hello__.FormApi" />
+          <option value="jwt.timedelta" />
+          <option value="jwt.set_access_cookies" />
+          <option value="my_jwt_app.timedelta" />
+          <option value="my_jwt_app.set_access_cookies" />
+          <option value="flask.app.Flask.button" />
+          <option value="__int__.FormApi.generate_data" />
+          <option value="flask.app.Flask.submit" />
+          <option value="hello.jsonnify" />
+          <option value="hello.Observer" />
+          <option value="hello.LogFileHandler" />
+          <option value="main.user_name" />
+          <option value="main.password" />
+          <option value="main.christal" />
+          <option value="main.username" />
+          <option value="app.verify_jwt_in_request" />
+          <option value="app.flask_jwt_extended" />
+          <option value="flask.app.route" />
+          <option value="main.run" />
+          <option value="services.app.run" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
