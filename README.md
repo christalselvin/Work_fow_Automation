@@ -19,7 +19,7 @@ Make sure you have the following installed:
 - Python 3.12
 - Flask
 - Virtualenv (optional but recommended)
-
+![work_flow](https://github.com/christalselvin/automation/assets/127867279/c78104b2-72d5-410f-93ae-2fe4014ea1a5)
 ## Installation
 
 1. Clone the repository:
@@ -27,4 +27,3 @@ Make sure you have the following installed:
    git clone (https://github.com/christalselvin/automation.git)
    cd your-repo-name
 
-![work_flow](https://github.com/christalselvin/automation/assets/127867279/c78104b2-72d5-410f-93ae-2fe4014ea1a5)
