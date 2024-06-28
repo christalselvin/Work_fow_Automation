@@ -11,6 +11,11 @@ This is a Python Flask project designed to develop a robust Python Flask applica
 - JWT encryption for secure authentication and authorization
 - Real-time data updates via a streaming API
 - Automated workflows
+## Voice Record 
+
+
+https://github.com/christalselvin/Work_fow_Automation/assets/127867279/a8997b21-2bb8-431e-9282-bd67299ac00c
+
 
 ## Prerequisites
 
